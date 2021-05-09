@@ -1,0 +1,104 @@
+body{
+  width: 100%;
+}
+header div ul li{
+  display: inline;
+  float: right;
+  margin: 1px;
+}
+header div div {
+  float: right;
+  margin-left: 10px;
+  margin-top: -3px;
+}
+.divicon{
+  margin-top: -40px;
+  padding-left: 30px;
+  margin-right: 100px;
+}
+.divlogo{
+   display: inline-block;
+   margin-top: 30px;
+   margin-left: 100px;
+ }
+header div h1{
+  font-family: Brush Script MT;
+  font-size: 40px; 
+}
+header div p{
+  font-family: Yu Mincho;
+  font-size: 10px;
+  width: 200px;
+  color: rgba(157, 146, 146, 0.673);
+}
+.hr {
+  margin-top: 50px;
+  margin-left: 100px;
+}
+#rssimg{
+  padding-left: 10px;
+}
+main section h1{
+  font-family: Arial Black;
+  font-size: 30px; 
+  margin-left: 100px;
+  padding-top: 30px;
+}
+main section div{
+  margin-left: 100px;
+}
+main section h5{
+  font-family: Yu Mincho;
+  font-size: 13px;
+  color: rgba(157, 146, 146, 0.673);
+  display: inline-block;
+  padding: 10px;
+}
+main section img{
+  margin-left: 100px;
+  
+}
+.main{
+  display: inline;
+  float: right;
+  margin-right: 83px;
+}
+.paragraph{
+  text-indent: 50px;
+  margin-left: 10px;
+  font-family: Bookman;
+  color: rgba(29, 29, 29, 0.605);
+  font-size: 25px;
+  line-height: 30px;
+  width: 94%;
+}
+ 
+.div1{
+  float: left;
+ position: absolute;
+ top:-340px;
+ left:100px;
+ font-family:papyrus ;
+ font-size:20px; 
+ line-height: 35px;
+ color: rgb(91, 83, 79);
+}
+.div2{
+  float: right;
+  position: absolute;
+  top:-340px;
+  left:500px;
+  font-family:papyrus ;
+  font-size:20px;
+  line-height: 35px;
+  color: rgb(91, 83, 79);
+ 
+}
+.note{
+  width:87%;
+  margin-left: 100px;
+
+}
+.maindiv{
+  position: relative;
+}
