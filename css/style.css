@@ -102,3 +102,57 @@ main section img{
 .maindiv{
   position: relative;
 }
+footer div div img{
+  float: left;
+  margin-left: 100px;
+  padding: 20px;
+}
+footer div div input{
+  float: right;
+  margin-right: 90px;
+  margin-top:-50px ;
+}
+footer div div input:hover{
+  background-color: peru;
+}
+hr.hr--logo {
+  border-top: solid rgb(91, 90, 90) 0.5px;
+  margin: 50px 0;
+  width: 87%;
+  margin-left: 100px;
+}
+hr.hr--logo:after {
+  content: url(https://raw.githubusercontent.com/samahAbujwaied/amman-irbid-201d24/main/class-10/lab-a/lab-assets/small-logo.png);
+  /* Controls the position of the logo */
+  left: 50%;
+  position: absolute;
+  transform: translateY(-50%) translateX(-50%);
+  /* Controls the whitespace around the symbol */
+  padding: 20px;
+  background: #fff;
+}
+.txtdiv{
+  padding: 20px;
+  padding-left: 200px;
+}
+.txtdiv p{
+  color:rgb(135, 134, 127) ;
+  font-family: BIZ UDGothic;
+}
+
+.button {
+  background-color: #9f6940; /* Green */
+  border: none;
+  color: white;
+  padding: 12px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+} 
+.footp{
+  color: rgba(142, 138, 138, 0.817);
+  font-family:'Times New Roman', Times, serif;
+  text-align: center;
+  line-height: 20px;
+}
